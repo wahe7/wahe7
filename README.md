@@ -1,5 +1,5 @@
 # Hello world 👋:
-I'm currently working on my skills like html,css,javascript,etc<br>I'm collage student.<br>I'm very passionate about learning new things and programming.
+I'm currently working on my skills like RubyonRails,java,pyhton,node.js,postgres,Githtml,css,javascript etc<br>I'm very passionate about learning new things and programming.
 
 
 ## 🌐 Socials:
