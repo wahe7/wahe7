@@ -1,5 +1,5 @@
 # Hello world 👋:
-I'm currently working on my skills like RubyonRails,java,pyhton,node.js,postgres,Githtml,css,javascript etc<br>I'm very passionate about learning new things and programming.
+I'm currently working on my skills like Ruby on Rails, Java, Pyhton, Node.js, Postgres,Git, Javascript etc<br>I'm very passionate about learning new things and programming.
 
 
 ## 🌐 Socials:
@@ -20,11 +20,5 @@ I'm currently working on my skills like RubyonRails,java,pyhton,node.js,postgres
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wahe7&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=wahe7&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
